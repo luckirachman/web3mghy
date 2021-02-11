@@ -1,0 +1,1280 @@
+{
+  "settings": {
+    "name": "Web SMPN 3 Margahayu",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {},
+      "additionalSetColors": [
+        "#eaeff1",
+        "#fafafa"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.12.3",
+    "siteFonts": [],
+    "imageResize": true,
+    "favicon": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": {
+      "customDialogSelector": false,
+      "colorText": "#424a4d",
+      "colorBg": "#eaeff1",
+      "colorButton": "",
+      "colorLink": "#424a4d",
+      "underlineLink": true,
+      "opacity": "99",
+      "opacityOverlay": "80",
+      "text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+      "textButton": "Agree"
+    },
+    "gdpr": {
+      "colorText": "#a7a7a7",
+      "colorLink": "#149dcc",
+      "underlineLink": false,
+      "text": "By continuing you agree to our <a href='term.html'>Terms of Service</a> and <a href='privacy.html'>Privacy Policy</a>."
+    },
+    "uniqCompNum": 60,
+    "versionPublish": "4.12.3",
+    "screenshot": "screenshot.png",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-168150140-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-168150140-1');\n</script>"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "SMPN 3 Margahayu",
+        "meta_descr": "Web resmi dari Sekolah Menengah Pertama Negeri 3 Margahayu di Kabupaten Bandung.",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "0.8em",
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#333333"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#292929"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "transparent": true,
+            "bgColor": "#333333",
+            "fontSize": "0.8",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#ffffff"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://smpn3-margahayu.sch.id\">BERANDA</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">PROFIL</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box4-8\">Visi &amp; Misi</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://dapo.dikdasmen.kemdikbud.go.id/sekolah/F3372853CB792592A98F\" target=\"_blank\">Profil Sekolah</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://berita.smpn3-margahayu.sch.id/\" aria-expanded=\"false\" target=\"_blank\">BERITA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ppdb.html\" aria-expanded=\"false\" target=\"_blank\">PPDB</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://belajar.smpn3-margahayu.sch.id/index.php/login\" aria-expanded=\"false\" target=\"_blank\">E-LEARNING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://covid19.bandungkab.go.id/\" aria-expanded=\"false\" target=\"_blank\">COVID-19</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"skl.html\" target=\"_blank\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>SKL</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-smpn3-mghy-nobg-133x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Logo",
+              "link": "https://smpn3-margahayu.sch.id/",
+              "title": "Logo",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://smpn3-margahayu.sch.id/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SMPN 3 MARGAHAYU</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-5"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": false,
+            "bgColor": "#ffffff",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1279.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Selamat Datang!",
+                "contentAlign": "right",
+                "text": "Web resmi SMP Negeri 3 Margahayu. <br>Semua informasi terkait sekolah, PPDB, E-Learning dan Cek Kelulusan Secara Online dapat diperoleh disini.",
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"index.html#msg-box4-8\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>VISI &amp; MISI</a> ",
+                "alt": "Beranda"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1284.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Covid-19",
+                "contentAlign": "left",
+                "text": "Mari bersama kita jaga kesehatan dan diri dari Covid-19.<br>Untuk info lebih lanjut klik info dibawah.",
+                "buttons": "  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://covid19.bandungkab.go.id/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-alert mbr-iconfont mbr-iconfont-btn\"></span>Info Covid-19 Kab. Bandung</a>",
+                "alt": "Covid-19"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1357.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "CEK-SKL",
+                "contentAlign": "right",
+                "text": "Sekarang cek kelulusan dilakukan online chat via WA.&nbsp;<br>Gimana caranya ? Klik Info dibawah.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"skl.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-rocket mbr-iconfont mbr-iconfont-btn\"></span>CEK SKL</a> ",
+                "alt": "CEK-SKL"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2020-05-19-at-03.43.28-10-1280x960.jpg",
+                "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "INFO PPDB",
+                "contentAlign": "left",
+                "text": "Untuk infomasi PPDB SMP Negeri 3 Margahayu dilaksanakan secara bersama-sama melalui aplikasi yang disediakan Dinas Pendidikan Kab. Bandung.<br>Untuk Informasi lebih lanjut, klik info dibawah.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"ppdb.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>INFO PPDB</a> ",
+                "alt": "CEK-SKL"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_anchor": "slider-7",
+          "_styles": {
+            "H1": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "29",
+            "paddingTop": "3",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1241.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#f97352",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/pa-juli-473x569.png",
+              "link": "",
+              "alt": "Kepala Sekolah",
+              "title": "Kepala Sekolah"
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "VISI &amp; MISI",
+          "text": "<p><br></p><p>VISI&nbsp; &nbsp; : </p><p>&nbsp;<i>“TERWUJUDNYA WARGA SEKOLAH SEUTUHNYA YANG BERIMTAQ, BERIPTEK DAN BERBUDAYA”</i></p><p><br></p><p>MISI&nbsp; &nbsp; :&nbsp;</p><p>1.\tMeningkatkan keimanan dan ketaqwaan warga sekolah kepada Tuhan Yang Maha Esa,</p><p>2.\tOptimalisasi kompetensi peserta didik melalui pengetahuan dan teknologi terpadu,</p><p>3.\tMewujudkan peran serta aktif warga sekolah akan budaya lingkungan,</p><p>4.\tMewujudkan lingkungan sekolah yang sehat, asri dan indah,</p><p>5.\tMewujudkan lingkungan sekolah menjadi sarana belajar siswa yang nyaman, bersih dan sehat.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "text-align": "left"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://dapo.dikdasmen.kemdikbud.go.id/sekolah/F3372853CB792592A98F\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>PROFIL SEKOLAH</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-8"
+        },
+        {
+          "_params": {
+            "showHeader": false,
+            "showSubheader": false,
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": false,
+            "paddingTop": "2",
+            "paddingBottom": "3",
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/plant-256x256.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "Adiwiyata",
+              "title": "Adiwiyata"
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "ADIWIYATA NASIONAL",
+          "caption1": "SMPN 3 Margahayu termasuk ke dalam salah satu sekolah yang berbasis kepedulian terhadap lingkungan hijau dan asri. Dibuktikan dengan mendapat predikat Adiwiyata tingkat Nasional.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/student-256x256.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "Kompetisi-Siswa",
+              "title": "Kompetisi-Siswa"
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "KOMPETISI SISWA",
+          "caption2": "SMPN 3 Margahayu mendukung siswa/i untuk aktif berkompetisi mengikuti lomba seperti Lomba Keagamaan, Kompetisi Sains Nasional, Kompetisi Olahraga Nasional, Festival Lomba Seni, Lomba Menulis Sastra, dsb.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/sport-256x256.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "Ekskul",
+              "title": "Ekskul"
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "EKSTRAKURIKULER",
+          "caption3": "SMPN 3 Margahayu memiliki berbagai macam ekstrakurikuler yang dapat diikuti oleh siswa dari berbagai bidang seperti keagamaan, olahraga, kesenian, bela diri, kelompok ilmiah, kelompok belajar, dsb.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/code-256x256.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "Berbasis-IT",
+              "title": "Berbasis-IT"
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "BERBASIS IT",
+          "caption4": "SMPN 3 Margahayu juga terus mengembangkan sistem berbasis IT, baik berhubungan dengan pelajaran mau pun administrasi. Adapun salah satunya, aplikasi Voting Ketua Osis berbasis IT.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-9",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "SMPN 3 Margahayu",
+              "placeId": "ChIJYyHe-DPvaC4RmsGotlpkYLE",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>ALAMAT</strong><br>Jl. Sadang No. 184<br>Margahayu Tengah, Margahayu, Kab. Bandung<br><br>\n<strong>KONTAK</strong><br>\nEmail &nbsp; &nbsp; : smpn3mghy@gmail.com<br>Telp &nbsp; &nbsp; &nbsp; : +62 (22) 541 2937<br>WA/HP &nbsp;: +62 821-1385-1488<br>IG &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : @smpn3margahayu",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>LINK TERKAIT</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"mbr-contacts__link text-gray\" href=\"http://www.bandungkab.go.id/\" target=\"_blank\">Web Pemkab Bandung</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"https://disdik.bandungkab.go.id/\" target=\"_blank\">Web Dinas Pendidikan Kab. Bandung</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"https://e-learning.bandungkab.go.id/\" target=\"_blank\">E-Learning Kab. Bandung</a></li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-c"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f0f0f0",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "FOLLOW :",
+          "icons": "<a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-twitter\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/3margahayu\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/groups/96934351931\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-youtube\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCKbSy6p0vsMSCFdl6dA41dg?view_as=subscriber\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"http://instagram.com/smpn3margahayu\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>      ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-e"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2020 SMPN 3 Margahayu | Dev :&nbsp;<a href=\"https://www.instagram.com/luckirachman/\" target=\"_blank\" class=\"text-black\">@luckirachman</a>. <a class=\"mbr-footer__link text-gray\" href=\"term.html\" target=\"_blank\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"privacy.html\" target=\"_blank\">Privacy Policy</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-f"
+        }
+      ]
+    },
+    "skl.html": {
+      "settings": {
+        "meta_descr": "Pada laman ini ditampilkan informasi mengenai cara untuk mendapatkan Surat Keterangan Lulus / SKL secara online melalui aplikasi chatting WhatsApp bagi siswa/i SMPN 3 Margahayu yang telah menyelesaikan Ujian Nasional Berbasis Komputer dan Ujian Sekolah Berbasis Komputer.",
+        "title": "Kelulusan",
+        "order": 4
+      },
+      "components": [
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "right",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1920x1280.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "YEAY, CEK KELULUSAN !",
+          "text": "Baca petunjuk di bawah untuk mengetahui cara bagaimana untuk CEK KELULUSAN dan mendapatkan SKL (Surat Keterangan Lulus) secara online melalui WhatsApp.",
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://drive.google.com/file/d/1assYA8ra98u1zgQTMTN3oxvOO0x4-_vV/view\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mobi-mbri mobi-mbri-download-2 mbr-iconfont mbr-iconfont-btn\"></span>DOWNLOAD POSTER</a>    ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-q",
+          "_styles": {
+            "P": {
+              "text-align": "right"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "CARA CEK KELULUSAN via WhatsApp",
+          "meta": "Oleh : luckirachman diterbitkan tanggal 05 Juni 2020",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-y"
+        },
+        {
+          "text": "<p>Pengumuman Kelulusan Tahun 2019/2020 di SMPN 3 Margahayu, apabila kebijakan Lockdown/PSBB masih diberlakukan maka akan dilaksnakan secara online melalui aplikasi WhatsApp (Download Apps). Surat Kelulusan diberikan dalam bentuk lembar SK Kelulusan berupa file .pdf, siswa dapat langsung mengunduh file tersebut dan dapat menyimpannya ke dalam perangkat (HP/Laptop/Komputer).<br></p><p>\n</p><p>Untuk mendapatkan informasi kelulusan tersebut, dapat dilakukan langkah-langkah berikut:\n</p><p>1. <b>Ketikan NISN</b> Kamu (Nomor Induk Siswa) misal, 123456789\n *tidak tahu, tanyakan ke Wali Kelas&nbsp;</p><p>2. Lalu kirim ke No. WA<b> 0821-1385-1488 (SMPN 3 Margahayu)</b></p><p>3. Tunggu <b>balasan muncul secara otomatis\n</b></p><p>4. Muncul balasan berupa link Google Drive berisi <b>file .pdf Surat Kelulusan\n</b></p><p>5. Klik link Surat Keterangan Lulus tersebut, <b>pilih aplikasi </b>untuk membuka, misal <b>PDF Viewer</b></p><p>6. Lalu akan muncul file Surat Keterangan Lulus dalam bentuk .pdf\n</p><p>7. Terakhir untuk <b>mengunduh (download)</b>, klik menu / ikon unduh di <b>pojok kanan atas</b>.\n</p><p>\n</p><p>Catatan :\n</p><p>*Pengumuman SKL : </p><p>&nbsp; &nbsp; &nbsp;dibuka mulai tanggal <b>5 Juni 2020 pukul 06.00 </b></p><p>&nbsp; &nbsp; &nbsp;ditutup pada tanggal<b> 6 Juni 2020 pukul 24.00.</b></p><p>\n</p><p>**Silahkan <b>Download Poster</b> di bawah, untuk menyimpan atau membagikan informasi ini ke teman.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-r",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://drive.google.com/file/d/1assYA8ra98u1zgQTMTN3oxvOO0x4-_vV/view\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mobi-mbri mobi-mbri-download-2 mbr-iconfont mbr-iconfont-btn\"></span>DOWNLOAD POSTER</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-z"
+        },
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "0.8em",
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#333333"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#292929"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "transparent": true,
+            "bgColor": "#333333",
+            "fontSize": "0.8",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#ffffff"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://smpn3-margahayu.sch.id\">BERANDA</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">PROFIL</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box4-8\">Visi &amp; Misi</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://dapo.dikdasmen.kemdikbud.go.id/sekolah/F3372853CB792592A98F\" target=\"_blank\">Profil Sekolah</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://berita.smpn3-margahayu.sch.id/\" aria-expanded=\"false\" target=\"_blank\">BERITA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ppdb.html\" aria-expanded=\"false\" target=\"_blank\">PPDB</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://belajar.smpn3-margahayu.sch.id/index.php/login\" aria-expanded=\"false\" target=\"_blank\">E-LEARNING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://covid19.bandungkab.go.id/\" aria-expanded=\"false\" target=\"_blank\">COVID-19</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"skl.html\" target=\"_blank\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>SKL</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-smpn3-mghy-nobg-133x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Logo",
+              "link": "https://smpn3-margahayu.sch.id/",
+              "title": "Logo",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://smpn3-margahayu.sch.id/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SMPN 3 MARGAHAYU</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-g"
+        },
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "SMPN 3 Margahayu",
+              "placeId": "ChIJYyHe-DPvaC4RmsGotlpkYLE",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>ALAMAT</strong><br>Jl. Sadang No. 184<br>Margahayu Tengah, Margahayu, Kab. Bandung<br><br>\n<strong>KONTAK</strong><br>\nEmail &nbsp; &nbsp; : smpn3mghy@gmail.com<br>Telp &nbsp; &nbsp; &nbsp; : +62 (22) 541 2937<br>WA/HP &nbsp;: +62 821-1385-1488<br>IG &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : @smpn3margahayu",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>LINK TERKAIT</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"mbr-contacts__link text-gray\" href=\"http://www.bandungkab.go.id/\" target=\"_blank\">Web Pemkab Bandung</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"https://disdik.bandungkab.go.id/\" target=\"_blank\">Web Dinas Pendidikan Kab. Bandung</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"https://e-learning.bandungkab.go.id/\" target=\"_blank\">E-Learning Kab. Bandung</a></li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-h"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2020 SMPN 3 Margahayu | Dev :&nbsp;<a href=\"https://www.instagram.com/luckirachman/\" target=\"_blank\" class=\"text-black\">@luckirachman</a>. <a class=\"mbr-footer__link text-gray\" href=\"term.html\" target=\"_blank\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"privacy.html\" target=\"_blank\">Privacy Policy</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-i"
+        }
+      ]
+    },
+    "ppdb.html": {
+      "settings": {
+        "meta_descr": "Di laman ini ditampilkan informasi untuk Penerimaan Peserta Didik Baru / PPDB ke Sekolah Menengah Pertama Negeri 3 Margahayu, Kabupaten Bandung, Jawa Barat, Indonesia",
+        "title": "PPDB",
+        "order": 3
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "0.8em",
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#333333"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#292929"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "transparent": true,
+            "bgColor": "#333333",
+            "fontSize": "0.8",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#ffffff"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://smpn3-margahayu.sch.id\">BERANDA</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">PROFIL</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box4-8\">Visi &amp; Misi</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://dapo.dikdasmen.kemdikbud.go.id/sekolah/F3372853CB792592A98F\" target=\"_blank\">Profil Sekolah</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://berita.smpn3-margahayu.sch.id/\" aria-expanded=\"false\" target=\"_blank\">BERITA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ppdb.html\" aria-expanded=\"false\" target=\"_blank\">PPDB</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://belajar.smpn3-margahayu.sch.id/index.php/login\" aria-expanded=\"false\" target=\"_blank\">E-LEARNING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://covid19.bandungkab.go.id/\" aria-expanded=\"false\" target=\"_blank\">COVID-19</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"skl.html\" target=\"_blank\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>SKL</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-smpn3-mghy-nobg-133x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Logo",
+              "link": "https://smpn3-margahayu.sch.id/",
+              "title": "Logo",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://smpn3-margahayu.sch.id/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SMPN 3 MARGAHAYU</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-s"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "right",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-5-1920x1280.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "INFO PPDB 2020",
+          "text": "Berikut ini merupakan informasi awal mengenai teknis pelaksanaan PPDB di SMPN 3 Margahayu yang di fasilitasi oleh Dinas Pendidikan Kabupaten Bandung 2020 secara Online.",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-v",
+          "_styles": {
+            "P": {
+              "text-align": "right",
+              "color": "#000000"
+            },
+            "H1": {
+              "text-align": "right",
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "INFORMASI PPDB 2020",
+          "meta": "Oleh : luckirachman diterbitkan tanggal 01 Juni 2020.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-w"
+        },
+        {
+          "_inherit": "slider",
+          "_afterNavbarItem": ".mbr-slider",
+          "_params": {
+            "autoplay": true,
+            "showBullets": false,
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/jadwal-ppdb-590x576.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Jadwal-PPDB",
+                "contentAlign": "right",
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>",
+                "alt": "Jadwal-PPDB",
+                "overlay": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/cara-daftar-599x558.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "CaraDaftar-PPDB",
+                "contentAlign": "left",
+                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "alt": "CaraDaftar-PPDB"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/jalur-ppdb-589x579.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Jalur-PPDB",
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "alt": "Jalur-PPDB"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/zonasi-ppdb-591x521.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Zonasi-PPDB1",
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "alt": "Zonasi-PPDB1"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/zonasi-ppdb1-586x531.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Zonasi-PPDB2",
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "alt": "Zonasi-PPDB2"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/layanan-ppdb-593x604.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Layanan-PPDB",
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "alt": "Layanan-PPDB"
+              }
+            ]
+          },
+          "articleLayout": true,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider2",
+          "_anchor": "slider2-10"
+        },
+        {
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://ppdb.bandungkab.go.id/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>WEB PPDB DISDIK KAB. BANDUNG</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://drive.google.com/file/d/1FZRcMpVJas_bvX77_E2YH9eY1Jb70Ega/view?usp=sharing\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>DOWNLOAD JUKNIS</a>  ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-11"
+        },
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "SMPN 3 Margahayu",
+              "placeId": "ChIJYyHe-DPvaC4RmsGotlpkYLE",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>ALAMAT</strong><br>Jl. Sadang No. 184<br>Margahayu Tengah, Margahayu, Kab. Bandung<br><br>\n<strong>KONTAK</strong><br>\nEmail &nbsp; &nbsp; : smpn3mghy@gmail.com<br>Telp &nbsp; &nbsp; &nbsp; : +62 (22) 541 2937<br>WA/HP &nbsp;: +62 821-1385-1488<br>IG &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : @smpn3margahayu",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>LINK TERKAIT</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"mbr-contacts__link text-gray\" href=\"http://www.bandungkab.go.id/\" target=\"_blank\">Web Pemkab Bandung</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"https://disdik.bandungkab.go.id/\" target=\"_blank\">Web Dinas Pendidikan Kab. Bandung</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"https://e-learning.bandungkab.go.id/\" target=\"_blank\">E-Learning Kab. Bandung</a></li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-t"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2020 SMPN 3 Margahayu | Dev :&nbsp;<a href=\"https://www.instagram.com/luckirachman/\" target=\"_blank\" class=\"text-black\">@luckirachman</a>. <a class=\"mbr-footer__link text-gray\" href=\"term.html\" target=\"_blank\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"privacy.html\" target=\"_blank\">Privacy Policy</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-u"
+        }
+      ]
+    },
+    "privacy.html": {
+      "settings": {
+        "meta_descr": "Laman perset",
+        "title": "Privacy",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "0.8em",
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#333333"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#292929"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "transparent": true,
+            "bgColor": "#333333",
+            "fontSize": "0.8",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#ffffff"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://smpn3-margahayu.sch.id\">BERANDA</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">PROFIL</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box4-8\">Visi &amp; Misi</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://dapo.dikdasmen.kemdikbud.go.id/sekolah/F3372853CB792592A98F\" target=\"_blank\">Profil Sekolah</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://berita.smpn3-margahayu.sch.id/\" aria-expanded=\"false\" target=\"_blank\">BERITA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ppdb.html\" aria-expanded=\"false\" target=\"_blank\">PPDB</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://belajar.smpn3-margahayu.sch.id/index.php/login\" aria-expanded=\"false\" target=\"_blank\">E-LEARNING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://covid19.bandungkab.go.id/\" aria-expanded=\"false\" target=\"_blank\">COVID-19</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"skl.html\" target=\"_blank\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>SKL</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-smpn3-mghy-nobg-133x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Logo",
+              "link": "https://smpn3-margahayu.sch.id/",
+              "title": "Logo",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://smpn3-margahayu.sch.id/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SMPN 3 MARGAHAYU</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-12"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "right",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-9-1920x1280.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "PRIVACY POLICY",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-15",
+          "_styles": {
+            "H1": {
+              "text-align": "right"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "KEBIJAKAN PRIVASI",
+          "meta": "Oleh Admin SMPN 3 Margahayu",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1j"
+        },
+        {
+          "text": "<p>Ketentuan-ketentuan yang ada dalam halaman ini mengatur hal-hal menyangkut data-data para Pengguna Situs yang diberikan oleh para Pengguna Situs kepada Pengelola Situs dalam rangka pemanfaatan fasilitas, fitur, jasa, dan/atau layanan yang ditawarkan oleh Pengelola Situs melalui Situs sharinghappiness.org. Ketentuan-ketentuan menyangkut data mengikat seluruh Pengguna Situs tanpa terkecuali untuk tunduk dan patuh atas ketentuan-ketentuan yang telah ditetapkan Pengelola Situs.\n</p><p>\n</p><p>Berikut ini ketentuan-ketentuan menyangkut data tersebut:\n</p><p>\n</p><p>1. Atas data-data yang diberikan oleh para Pengguna Situs kepada Pengelola Situs sebagai pemenuhan syarat atas pemanfaatan fasilitas, fitur, jasa, dan/atau layanan yang ditawarkan oleh Pengelola Situs, maka Pengelola Situs berkewajiban untuk:\n</p><p>&nbsp; &nbsp; &nbsp;a. Menjaga kerahasiaan data-data para Pengguna yang tidak dapat ditampilkan dalam Situs dan/atau diberikan kepada pihak-pihak tertentu atas penggunaan jasa atau layanan Situs selama tidak ada perjanjian tertulis terlebih dahulu kepada Pengguna;\n</p><p>&nbsp; &nbsp; &nbsp;b. Kerahasiaan data Pengguna yang wajib dijaga oleh Pengelola Situs menjadi tidak berlaku apabila Pengelola Situs dipaksa oleh ketentuan hukum yang berlaku, perintah pengadilan, dan/atau perintah dari aparat/instansi yang berwenang, untuk membuka data-data milik Pengguna tersebut;\n</p><p>2. Pengelola Situs hanya bertanggung jawab atas data yang diberikan Pengguna Situs kepada Pengelola Situs sebagaimana yang telah ditentukan pada ketentuan sebelumnya;\n</p><p>3. Pengelola Situs tidak bertanggung jawab atas pemberian atau pertukaran data yang dilakukan sendiri antar Pengguna Situs;\n</p><p>4. Pengelola berhak untuk mengubah ketentuan menyangkut data-data para Pengguna Situs tanpa pemberitahuan terlebih dahulu dengan tanpa mengabaikan hak para Pengguna Situs untuk dijaga kerahasiaan datanya sebagaimana yang telah ditentukan dalam butir (1).</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-16"
+        },
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "SMPN 3 Margahayu",
+              "placeId": "ChIJYyHe-DPvaC4RmsGotlpkYLE",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>ALAMAT</strong><br>Jl. Sadang No. 184<br>Margahayu Tengah, Margahayu, Kab. Bandung<br><br>\n<strong>KONTAK</strong><br>\nEmail &nbsp; &nbsp; : smpn3mghy@gmail.com<br>Telp &nbsp; &nbsp; &nbsp; : +62 (22) 541 2937<br>WA/HP &nbsp;: +62 821-1385-1488<br>IG &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : @smpn3margahayu",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>LINK TERKAIT</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"mbr-contacts__link text-gray\" href=\"http://www.bandungkab.go.id/\" target=\"_blank\">Web Pemkab Bandung</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"https://disdik.bandungkab.go.id/\" target=\"_blank\">Web Dinas Pendidikan Kab. Bandung</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"https://e-learning.bandungkab.go.id/\" target=\"_blank\">E-Learning Kab. Bandung</a></li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-13"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2020 SMPN 3 Margahayu | Dev :&nbsp;<a href=\"https://www.instagram.com/luckirachman/\" target=\"_blank\" class=\"text-black\">@luckirachman</a>. <a class=\"mbr-footer__link text-gray\" href=\"term.html\" target=\"_blank\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"privacy.html\" target=\"_blank\">Privacy Policy</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-14"
+        }
+      ]
+    },
+    "term.html": {
+      "settings": {
+        "meta_descr": "Site Generator Description",
+        "title": "Terms",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "0.8em",
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#333333"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#292929"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "transparent": true,
+            "bgColor": "#333333",
+            "fontSize": "0.8",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#ffffff"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://smpn3-margahayu.sch.id\">BERANDA</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">PROFIL</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box4-8\">Visi &amp; Misi</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://dapo.dikdasmen.kemdikbud.go.id/sekolah/F3372853CB792592A98F\" target=\"_blank\">Profil Sekolah</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://berita.smpn3-margahayu.sch.id/\" aria-expanded=\"false\" target=\"_blank\">BERITA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ppdb.html\" aria-expanded=\"false\" target=\"_blank\">PPDB</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://belajar.smpn3-margahayu.sch.id/index.php/login\" aria-expanded=\"false\" target=\"_blank\">E-LEARNING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://covid19.bandungkab.go.id/\" aria-expanded=\"false\" target=\"_blank\">COVID-19</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"skl.html\" target=\"_blank\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>SKL</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-smpn3-mghy-nobg-133x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Logo",
+              "link": "https://smpn3-margahayu.sch.id/",
+              "title": "Logo",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://smpn3-margahayu.sch.id/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SMPN 3 MARGAHAYU</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-17"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "right",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-4-1920x1280.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "TERMS OF USE",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-1a",
+          "_styles": {
+            "H1": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "TERMS OF USE (TERMS)",
+          "meta": "Oleh Admin SMPN 3 Margahayu",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1k"
+        },
+        {
+          "text": "<div>Last updated: (May 29, 2020)<br></div><div>\n</div><div>Please read these Terms of Use (\"Terms\", \"Terms of Use\") carefully before using the http://www.smpn3-margahayu.sch.id website operated by SMPN 3 Margahayu (\"us\", \"we\", or \"our\").\n</div><div>\n</div><div>Your access to and use of the Service is conditioned on your acceptance of and compliance with these Terms. These Terms apply to all visitors, users and others who access or use the Service.\n</div><div>\n</div><div>By accessing or using the Service you agree to be bound by these Terms. If you disagree with any part of the terms then you may not access the Service.</div><div><br></div><div>\n</div><div>\n</div><div><b>Termination</b><br></div><div>\n</div><div>We may terminate or suspend access to our Service immediately, without prior notice or liability, for any reason whatsoever, including without limitation if you breach the Terms.\n</div><div>\n</div><div>All provisions of the Terms which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity and limitations of liability.</div><div><br></div><div>\n</div><div>\n</div><div><b>Content\n</b></div><div>\n</div><div>Our Service allows you to post, link, store, share and otherwise make available certain information, text, graphics, videos, or other material (\"Content\"). You are responsible for the …\n</div><div>\n</div><div>The Content section is for businesses that allow users to create, edit, share, make content on their websites or apps. For the full disclosure section, create your own Terms of Use.</div><div><br></div><div>\n\n</div><div>\n</div><div>\n</div><div><b>Links To Other Web Sites\n</b></div><div>\n</div><div>Our Service may contain links to third-party web sites or services that are not owned or controlled by SMPN 3 Margahayu.</div><div><br></div><div>\n</div><div>\n</div><div>SMPN 3 Margahayu has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that SMPN 3 Margahayu shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such web sites or services.</div><div><br></div><div>\n</div><div>\n</div><div><b>Changes\n</b></div><div>\n</div><div>We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material we will try to provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.</div><div><br></div><div>\n</div><div>\n</div><div><b>Contact Us\n</b></div><div>\n</div><div>If you have any questions about these Terms, please <b>contact us</b>.\n</div><div><br></div>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1b"
+        },
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "SMPN 3 Margahayu",
+              "placeId": "ChIJYyHe-DPvaC4RmsGotlpkYLE",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>ALAMAT</strong><br>Jl. Sadang No. 184<br>Margahayu Tengah, Margahayu, Kab. Bandung<br><br>\n<strong>KONTAK</strong><br>\nEmail &nbsp; &nbsp; : smpn3mghy@gmail.com<br>Telp &nbsp; &nbsp; &nbsp; : +62 (22) 541 2937<br>WA/HP &nbsp;: +62 821-1385-1488<br>IG &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : @smpn3margahayu",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>LINK TERKAIT</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"mbr-contacts__link text-gray\" href=\"http://www.bandungkab.go.id/\" target=\"_blank\">Web Pemkab Bandung</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"https://disdik.bandungkab.go.id/\" target=\"_blank\">Web Dinas Pendidikan Kab. Bandung</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"https://e-learning.bandungkab.go.id/\" target=\"_blank\">E-Learning Kab. Bandung</a></li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-18"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2020 SMPN 3 Margahayu | Dev :&nbsp;<a href=\"https://www.instagram.com/luckirachman/\" target=\"_blank\" class=\"text-black\">@luckirachman</a>. <a class=\"mbr-footer__link text-gray\" href=\"term.html\" target=\"_blank\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"privacy.html\" target=\"_blank\">Privacy Policy</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-19"
+        }
+      ]
+    }
+  }
+}
